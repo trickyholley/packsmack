@@ -1,0 +1,19 @@
+{
+  "name": "pack-smack",
+  "version": "1.0.0",
+  "main": "pack-smack.js",
+  "os": [
+    "linux"
+  ],
+  "bin": {
+    "sense_falcon_sensor": "./dist/sense_falcon_sensor"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.7.2",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "once": "node pack-smack.js --run-once",
+    "start": "node pack-smack.js"
+  }
+}

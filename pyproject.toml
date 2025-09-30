@@ -1,0 +1,13 @@
+[project]
+name = "sense-falcon-sensor"
+version = "0.1.0"
+description = "A script to check Falcon Sensor status"
+authors = [{ name = "Your Name" }]
+dependencies = ["pyinstaller"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+sense-falcon-sensor = "sense_falcon_sensor:sense_falcon_sensor"
