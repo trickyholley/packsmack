@@ -6,4 +6,6 @@ The Python script runs a check that the Falcon Sensor systemd service is operati
 
 The Node script executes the Python binary and captures the output.
 
-<img width="637" height="176" alt="image" src="https://github.com/user-attachments/assets/2020279b-b530-4acb-9d8f-35a2c408b397" />
+<img width="540" height="100" alt="image" src="https://github.com/user-attachments/assets/f5d5006d-2a5d-473b-8b88-ab8091600bbf" />
+
+<img width="540" height="150" alt="image" src="https://github.com/user-attachments/assets/2020279b-b530-4acb-9d8f-35a2c408b397" />
